@@ -32,7 +32,7 @@ int main()
     int score2 = totalScore(c2,n2);
 
     // cout<<score1<<" & "<<score2 <<"\n";
-    (score1 > score2) ? cout<<"C1"<<"\n" : cout<<"C2 "<<"\n" ;
+    (score1 > score2) ? cout<<"C1"<<"\n" : cout<<"C2 "<<"\n";
 }
     return 0;
 }
