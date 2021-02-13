@@ -23,28 +23,24 @@ int mult(int x, int *a, int size){
 	return size;
 }
 
-int factorial(int n){
+void factorial(int n){
 
 	int a[MAX];
 	int size = 1;
 	a[0] = 1;
-	// int count=0;
+	 
 
 	for(int i=2;i<=n;i++){
-		// count++;
-
 		size = mult(i, a, size);
-
 	}
 
 	for(int i=size-1;i>=0;--i){
 		cout<<a[i];
-		 
 	}
 
 	cout<<endl;
 
-	return count;
+	 
 }
 
 int main()
@@ -52,6 +48,6 @@ int main()
 	int n;
 	cin>>n;
 
-	cout<<factorial(n)<<endl;
+	factorial(n);
 	return 0;
 }
