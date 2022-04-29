@@ -9,6 +9,7 @@ Practicing Data Structure & Algorithm LeetCode Problems.
 
 #### Easy
 - [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+- [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 
 #### Medium
 
