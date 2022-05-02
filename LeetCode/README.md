@@ -5,6 +5,12 @@ Practicing Data Structure & Algorithm LeetCode Problems.
 
 ## Problem Links 👇👇👇
 
+### Array
+#### Easy
+- [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+
+
+
 ### 2D-Array 
 
 #### Easy
