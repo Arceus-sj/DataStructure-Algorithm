@@ -8,6 +8,7 @@ Practicing Data Structure & Algorithm LeetCode Problems.
 ### Array
 #### Easy
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 
 
